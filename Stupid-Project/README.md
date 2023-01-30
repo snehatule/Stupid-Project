@@ -1,1 +1,1 @@
-﻿# Stupid-Project !!!
+﻿# Stupid-Project !
